@@ -1,0 +1,14 @@
+@charset "uff-8";
+/*슬라이더*/
+
+/* ========== Slider ========== */
+#slider {
+    width: 100%;
+    min-height: 450px;
+    overflow: hidden;
+}
+
+#slider>img {
+    width: 100%;
+    display: block;
+}
