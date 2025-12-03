@@ -1,6 +1,6 @@
 https://dino-21.github.io/zipbanchan/
 
-### json URL
+### Json URL
 - https://dino-21.github.io/zipbanchan/json/01_banchan.json
 - https://dino-21.github.io/zipbanchan/json/02_kidbanchan.json
 - https://dino-21.github.io/zipbanchan/json/03_newbanchan.json
