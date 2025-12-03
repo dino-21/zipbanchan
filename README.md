@@ -7,4 +7,4 @@ https://dino-21.github.io/zipbanchan/
 - https://dino-21.github.io/zipbanchan/json/04_mdbanchan.json
 
 
-<img width="1084" height="3468" alt="2" src="https://github.com/user-attachments/assets/95c03e67-e3b7-464a-9619-b97c48993b5f" />
+<img width="500" height="3468" alt="2" src="https://github.com/user-attachments/assets/95c03e67-e3b7-464a-9619-b97c48993b5f"  />
